@@ -19,7 +19,7 @@ Now based on the function's value...
 - if **positive**, **white** color
 
 ### Example
-- `y == x or -(-x == y)`
+- `x*y - sin(t)*64`
 
 <img src=https://user-images.githubusercontent.com/70792552/215462442-b5941842-987e-4ff6-b4df-4b18da9b905d.gif width=500>
 
